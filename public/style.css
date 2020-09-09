@@ -1,0 +1,15 @@
+.authentication-form
+{
+  background-color : skyblue;
+  margin-left: 500px;
+  top: 50px
+}
+.error-block{
+ left: 10px; color: red;
+}
+.emp-table
+{
+ 
+  margin-left: 500px;
+  top: 50px
+}
